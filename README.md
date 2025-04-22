@@ -16,5 +16,6 @@ All classifiers were implemented in Python using jypiter notebook and standard s
 - Python 3.8+
 - NumPy
 - Pandas
-- Matplotlib / Seaborn
+- Matplotlib
+- Seaborn
 - Scikit-learn
