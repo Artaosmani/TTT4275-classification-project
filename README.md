@@ -1,6 +1,6 @@
 # TTT4275 - Classification project
 
-This repository contains code, documentation, and results for the classification project completed as part of the NTNU course TTT4275 – Estimation, Detection, and Classification**.
+This repository contains code, documentation, and results for the classification project completed as part of the NTNU course TTT4275 – Estimation, Detection, and Classification.
 
 ## Overview
 
